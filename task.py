@@ -1,1 +1,1 @@
-print("Pls work")
+print("Please work")
