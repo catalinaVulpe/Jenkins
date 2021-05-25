@@ -2,6 +2,6 @@ pipeline:
   agent:
     any:
   stages:
-    - stage: "First try"
+    - stage: "Hope it works"
       steps:
       - sh "echo Task works!"
