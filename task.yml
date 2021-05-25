@@ -1,0 +1,7 @@
+pipeline:
+  agent:
+    any:
+  stages:
+    - stage: "First try"
+      steps:
+      - sh "echo Task works!"
