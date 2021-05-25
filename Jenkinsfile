@@ -3,17 +3,17 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Te rog '
+                echo 'Pipeline'
             }
         }
         stage('Test') {
             steps {
-                echo 'eu'
+                echo 'is working'
             }
         }
         stage('Deploy') {
             steps {
-                echo 'mergi in pastele ma-tii!'
+                echo 'very nicely!'
             }
         }
     }
